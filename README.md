@@ -26,6 +26,6 @@ If you need to get in contact you can contact me through almost all the links be
 <h1 align="center"></h1>
 <h3 align="center">My statistics of what I've done on Github:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thatgravyboat&show_icons=true&theme=transparent&text_color=ffffff&icon_color=ffffff&border_color=ffffff&title_color=ffffff&hide_title=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=thatgravyboat&show_icons=true&theme=transparent&text_color=ffffff&bar_color_cover=true&icon_color=ffffff&border_color=ffffff&title_color=ffffff&hide_title=true"/>
   <br>
 </p>

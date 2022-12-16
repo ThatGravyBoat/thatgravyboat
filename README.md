@@ -12,7 +12,7 @@ If you need to get in contact you can contact me through almost all the links be
   |
   <a href="https://twitter.com/thatgravyboat">🐦 Twitter</a>
   |
-  <a href="https://anvil.social/@ThatGravyBoat">💬 Mastodon</a>
+  <a rel="me" href="https://anvil.social/@thatgravyboat">💬 Mastodon</a>
   |
   <a href="https://www.curseforge.com/members/thatgravyboat/projects">🔥 Curseforge</a>
   |

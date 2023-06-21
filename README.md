@@ -11,19 +11,19 @@ You can also contact me on Discord at @thatgravyboat
 <hr/>
 <p align="center">
   <a href="https://thatgravyboat.tech" title="Website">
-    <img src="https://raw.githubusercontent.com/Team-Resourceful/Resourceful-Config-Web/8fb2061bc1baea8332dd21fd8a99733906de8e88/public/assets/lucide/code-2.svg"/>
+    <img src="https://raw.githubusercontent.com/Team-Resourceful/Resourceful-Config-Web/8fb2061bc1baea8332dd21fd8a99733906de8e88/public/assets/lucide/code-2.svg" width="36"/>
   </a>
   <a href="https://twitter.com/thatgravyboat" title="Twitter">
-    <img src="https://raw.githubusercontent.com/Team-Resourceful/Resourceful-Config-Web/8fb2061bc1baea8332dd21fd8a99733906de8e88/public/assets/lucide/twitter.svg"/>
+    <img src="https://raw.githubusercontent.com/Team-Resourceful/Resourceful-Config-Web/8fb2061bc1baea8332dd21fd8a99733906de8e88/public/assets/lucide/twitter.svg" width="36"/>
   </a>
   <a rel="me" href="https://anvil.social/@thatgravyboat" title="Mastodon">
-    <img src="https://raw.githubusercontent.com/Team-Resourceful/Resourceful-Config-Web/8fb2061bc1baea8332dd21fd8a99733906de8e88/public/assets/lucide/at-sign.svg"/>
+    <img src="https://raw.githubusercontent.com/Team-Resourceful/Resourceful-Config-Web/8fb2061bc1baea8332dd21fd8a99733906de8e88/public/assets/lucide/at-sign.svg" width="36"/>
   </a>
   <a href="https://modrinth.com/user/ThatGravyBoat" title="Modrinth">
-    <img src="https://raw.githubusercontent.com/Team-Resourceful/Resourceful-Config-Web/8fb2061bc1baea8332dd21fd8a99733906de8e88/public/assets/lucide/modrinth.svg"/>
+    <img src="https://raw.githubusercontent.com/Team-Resourceful/Resourceful-Config-Web/8fb2061bc1baea8332dd21fd8a99733906de8e88/public/assets/lucide/modrinth.svg" width="36"/>
   </a>
   <a href="https://www.curseforge.com/members/thatgravyboat/projects" title="Curseforge">
-    <img src="https://raw.githubusercontent.com/Team-Resourceful/Resourceful-Config-Web/8fb2061bc1baea8332dd21fd8a99733906de8e88/public/assets/lucide/curseforge.svg"/>
+    <img src="https://raw.githubusercontent.com/Team-Resourceful/Resourceful-Config-Web/8fb2061bc1baea8332dd21fd8a99733906de8e88/public/assets/lucide/curseforge.svg" width="36"/>
   </a>
 </p>
 <hr/>
